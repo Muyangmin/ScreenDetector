@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScreenDetector</string>
+
+    <string name="main_detect_result">Screen Detect Result:\n
+        By getSize:       w=%1$d, h=%2$d\n
+        By getRealSize:   w=%3$d, h=%4$d\n
+        By getMetrics:    w=%5$d, h=%6$d, density=%7$.2f, densityDpi=%8$d\n
+        By getRealMetrics:w=%9$d, h=%10$d, density=%11$.2f, densityDpi=%12$d</string>
+</resources>
